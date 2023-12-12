@@ -1,0 +1,18 @@
+#navbarSupportedContent a{
+    color:rgb(33, 52, 198);
+    font-size: 18px;
+    margin-left: 20px;
+}
+.eplis{
+    background-color: white;
+    border-radius: 50%;
+    width:220px;
+    height: 220px;
+    padding: 50px 50px;
+}
+#link-menu a{
+display:grid;
+ text-decoration: none;
+ color: black;
+ padding: 10px 0px;
+}
